@@ -14,13 +14,13 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 [![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-📖  Learning Basics of Front End Development
+📖 Learning Basics of Front End Development
   - Understanding the web developer job role
   - Distinguishing between front-end, back-end, and full-stack developers
   - How data moves through the internet
   - Describing the technologies that underpin the internet.
     
-🚀My Front End Development Journey Progress:
+🚗 My Front End Development Journey Progress:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64b3af139a1017508d21d7da?variant=dark&roadmaps=frontend)](https://roadmap.sh)
     
