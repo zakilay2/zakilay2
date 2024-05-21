@@ -6,7 +6,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 ## 🚀 About Me
 
-- 🔭 Interested in designing websites and building apps
+- 🔭 Interested in building websites and apps
 - 🌱 Currently learning Basics of Front End Development
 - 🌐 Developer Program Member on Github
 
