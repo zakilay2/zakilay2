@@ -1,5 +1,7 @@
 # Hi, I'm ilocodes! 👋
 
+![MSBuild-Logo](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true)
+
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
 ![ilocodes's Stats](https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
