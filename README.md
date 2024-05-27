@@ -1,7 +1,4 @@
 # Hi, I'm ilocodes! 👋
-
-<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250"/>
-
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
 ![ilocodes's Stats](https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -30,5 +27,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 ## 📬 Get in Touch
 
 - Connect with me on [Github](https://github.com/ilocodes)
+
+<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250"/>
 
 Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
