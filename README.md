@@ -13,7 +13,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 [![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-📖 Learning Basics of Front End Development
+📖 Learning The Basics of Front End Development
   - Understanding the web developer job role
   - Distinguishing between front-end, back-end, and full-stack developers
   - How data moves through the internet
