@@ -9,7 +9,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 ## 🚀 About Me
 
 - 🔭 Interested in building websites and apps
-- 🌱 Currently learning Basics of Front End Development
+- 🌱 Currently learning the Basics of Front End Development
 - 🌐 Developer Program Member on Github
 
 ## Tech Stack
@@ -21,6 +21,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   - Distinguishing between front-end, back-end, and full-stack developers
   - How data moves through the internet
   - Describing the technologies that underpin the internet.
+  - Using HTML to create a simple web page
     
 🚗 My Front End Development Journey Progress:
 
