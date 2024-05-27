@@ -30,4 +30,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
 
-<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250"/>
+<a href="https://giphy.com/gifs/hellogiggles-i-love-you-bffs-7fj4un4Rd4YTK">
+    <img src="https://media.giphy.com/media/7fj4un4Rd4YTK/giphy.gif" width="250" height="250" />
+</a>
+
