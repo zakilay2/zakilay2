@@ -26,8 +26,8 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
     
 ## 📬 Get in Touch
 
-- Connect with me on [Github](https://github.com/ilocodes)
-
-<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250"/>
+- Connect with me on [Instagram](https://instagram.com/ilocodes)
 
 Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
+
+<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250"/>
