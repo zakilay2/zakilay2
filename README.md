@@ -25,12 +25,3 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 - Connect with me on [Instagram](https://instagram.com/ilocodes)
 
 Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ilocodes/ilocodes/output/snake.svg" alt="Snake animation" />
-
-###
