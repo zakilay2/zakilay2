@@ -26,7 +26,26 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
 
-<a href="https://giphy.com/gifs/hellogiggles-i-love-you-bffs-7fj4un4Rd4YTK">
-    <img src="https://media.giphy.com/media/7fj4un4Rd4YTK/giphy.gif" width="200" height="200" />
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ilocodes/ilocodes/output/snake.svg" alt="Snake animation" />
+
+###
 
