@@ -29,6 +29,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 </div>
 
 ###
-![snake svg](https://github.com/ilocodes/ilocodes/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/ilocodes/ilocodes/output/github-contribution-grid-snake.svg)
 
 ###
+
