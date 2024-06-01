@@ -1,7 +1,7 @@
 # Hi, I'm ilocodes! 👋
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
-![ilocodes's Stats](https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ilocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=ilocodes&theme=react&show_icons=true)
 
 ## 🚀 About Me
 
@@ -19,10 +19,6 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   - How data moves through the internet
   - Describing the technologies that underpin the internet.
   - Using HTML to create a simple web page
-    
-🚗 My Front End Development Journey Progress:
-
-[![roadmap.sh](https://roadmap.sh/card/wide/64b3af139a1017508d21d7da?variant=dark&roadmaps=frontend)](https://roadmap.sh)
     
 ## 📬 Get in Touch
 
