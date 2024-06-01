@@ -31,7 +31,6 @@ Thanks for stopping by! Let's explore the fascinating world of technology togeth
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/{ilocodes}/{ilocodes}/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/ilocodes/ilocodes/output/snake.svg" alt="Snake animation" />
 
 ###
-
