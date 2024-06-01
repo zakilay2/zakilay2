@@ -26,4 +26,10 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
 
-![snake gif](https://github.com/ilocodes/ilocodes/blob/output/github-contribution-grid-snake.gif)
+<div align="left">
+</div>
+
+###
+![snake svg](https://github.com/ilocodes/ilocodes/blob/output/github-contribution-grid-snake.svg)
+
+###
