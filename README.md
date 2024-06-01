@@ -1,7 +1,7 @@
 # Hi, I'm ilocodes! 👋
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
-![ilocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=ilocodes&theme=react&show_icons=true)
+![ilocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue-dark&show_icons=true)
 
 ## 🚀 About Me
 
@@ -24,7 +24,6 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 - Connect with me on [Instagram](https://instagram.com/ilocodes)
 
-Thanks for stopping by! Let's explore the fascinating world of technology together. 🚀
 
 <div align="left">
 </div>
