@@ -28,5 +28,17 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 <div align="left">
 </div>
 
-![snake svg](https://raw.githubusercontent.com/ilocodes/ilocodes/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
