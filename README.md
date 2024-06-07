@@ -14,11 +14,8 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 ## 🌱 Currently Exploring
 📖 Learning The Basics of Front End Development
-  - Understanding the web developer job role
-  - Distinguishing between front-end, back-end, and full-stack developers
-  - How data moves through the internet
-  - Describing the technologies that underpin the internet.
   - Using HTML to create a simple web page
+  - Exploring the basics of CSS
     
 ## 📬 Get in Touch
 
