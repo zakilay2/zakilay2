@@ -2,8 +2,8 @@
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="175" alt="languages graph"  />
 
 ## 🚀 About Me
 
@@ -37,7 +37,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 ## Streak
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ilocodes&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ilocodes&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph"  />
 </div>
     
 ## 📬 Get in Touch
