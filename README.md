@@ -49,7 +49,11 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   <a href="https://instagram.com/ilocodes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="ilocodes21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
 
 <div align="left">
 <picture>
@@ -67,4 +71,6 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   />
 </picture>
 </div>
+
+
 
