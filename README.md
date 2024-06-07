@@ -45,9 +45,12 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
     
 ## 📬 Get in Touch
 
-- Connect with me on [Instagram](https://instagram.com/ilocodes)
+<div align="left">
+  <a href="https://instagram.com/ilocodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-###
 <div align="left">
 <picture>
   <source
@@ -64,3 +67,4 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   />
 </picture>
 </div>
+
