@@ -4,6 +4,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="175" alt="languages graph"  />
+</div>
 
 ## 🚀 About Me
 
@@ -48,8 +49,6 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 ###
 <div align="left">
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -64,3 +63,4 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
     src="https://raw.githubusercontent.com/ilocodes/ilocodes/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</div>
