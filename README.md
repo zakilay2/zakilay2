@@ -1,4 +1,4 @@
-# Hi, I'm ilocodes! 👋
+# Hi, I'm Ilayda! 👋
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
 <div align="left">
