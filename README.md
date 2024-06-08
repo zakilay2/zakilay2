@@ -4,11 +4,11 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 <div align="left">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true&theme=vue-dark&hide_border=true" height="180"
+    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true&theme=vue-dark" height="180"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue&show_icons=true&hide_border=true" height="180"
+    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue&show_icons=true" height="180"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true" />
