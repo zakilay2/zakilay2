@@ -62,11 +62,11 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 <div align="left">
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=ilocodes&show_icons=true&theme=vue-dark&bg_color=fffefe&border_color=e4e2e2" height="180" 
+    srcset="https://streak-stats.demolab.com?user=ilocodes&show_icons=true&theme=vue-dark&hide_border=true" height="180" 
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=ilocodes&theme=vue&show_icons=true&bg_color=fffefe&border_color=e4e2e2" height="180" 
+    srcset="https://streak-stats.demolab.com?user=ilocodes&theme=vue&show_icons=true&hide_border=true" height="180" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://streak-stats.demolab.com?user=ilocodes&show_icons=true" />
