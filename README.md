@@ -2,8 +2,28 @@
 I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="175" alt="languages graph"  />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true&theme=vue-dark" height="180"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue&show_icons=true" height="180"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&show_icons=true&layout=compact&card_width=320&theme=vue-dark" height="180"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&layout=compact&card_width=320&theme=vue&show_icons=true" height="180"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&show_icons=true" />
+</picture>  
 </div>
 
 ## 🚀 About Me
@@ -40,7 +60,17 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 ## Streak
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ilocodes&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph"  />
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=ilocodes&show_icons=true&theme=vue-dark&border_color=e4e2e2&bg_color=fffefe" height="180" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=ilocodes&theme=vue&show_icons=true&border_color=e4e2e2&bg_color=fffefe" height="180" 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=ilocodes&show_icons=true" />
+</picture>
 </div>
     
 ## 📬 Get in Touch
