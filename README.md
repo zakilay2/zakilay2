@@ -100,5 +100,5 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 </picture>
 </div>
 
-.
+
 
