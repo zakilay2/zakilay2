@@ -50,6 +50,8 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -99,6 +101,5 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   />
 </picture>
 </div>
-
 
 
