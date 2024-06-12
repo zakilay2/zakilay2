@@ -28,38 +28,41 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 ## 🚀 About Me
 
-- 🔭 Interested in building websites and apps
-- 🌱 Currently learning the Basics of Front End Development
-- 🌐 Developer Program Member on Github
+- 🔭 Interested in building websites and mobile apps
+- 🌱 Currently learning the Basics of Front End Development 
+- 📖 Studying towards Github Foundations exam
 
 ## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
+Following languages and frameworks i have had experience in:
 
-###
+### Front End Development:
+| HTML | CSS | Bootstrap | JS |
+|------|-----|-----------|----|
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  /> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="49" width="49" alt="bootstrap logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="js logo"  /> |
+
+### Version Control:
+| Git | Github |
+|------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="github logo"  /> |  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> |
+
+### Other Languages:
+| Python | C# |
+|-------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /> |
+
+### Cloud:
+| Azure |
+|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="azure logo"  /> |
+
 
 ## 🌱 Currently Exploring
 📖 Learning The Basics of Front End Development
   - Using HTML to create a simple web page
-  - Exploring the basics of CSS
+  - Exploring the basics of CSS & Bootstrap
+
+🖋️ Studying Towards Github Foundations Exam
 
 ## Streak
 
@@ -101,5 +104,3 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
   />
 </picture>
 </div>
-
-
