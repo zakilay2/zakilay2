@@ -1,5 +1,5 @@
 # Hi, I'm Ilayda! 👋
-I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas,
+I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas and trying them,
 
 <div align="left">
 <picture>
