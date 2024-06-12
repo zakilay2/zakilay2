@@ -30,7 +30,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 
 - 🔭 Interested in building websites and mobile apps
 - 🌱 Currently learning the Basics of Front End Development 
-- 📖 Studying towards Github Foundations exam
+- 🌐 Developer Program Member
 
 ## Tech Stack
 
