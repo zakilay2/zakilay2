@@ -66,7 +66,7 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
 
 <div align="left">
 <a href="https://instagram.com/ilocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakilay" height="30" width="40" /></a>
-  <a href="https:/x.com/ilocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakilay" height="30" width="40" /></a>
+  <a href="https://x.com/ilocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakilay" height="30" width="40" /></a>
 </p>
 </div>
 
