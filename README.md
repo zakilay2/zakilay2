@@ -19,7 +19,7 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="" height="180"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&layout=compact&card_width=320&theme=vue&show_icons=true&bg_color=00000000" height="180"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&show_icons=true" />
