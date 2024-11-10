@@ -1,25 +1,25 @@
-# Hi, I'm Ilayda! 👋
-I am a passionate individual, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas and trying them out,
+# Hi, We are Zak&Ilay! 👋
+We are passionate individuals, driven by a curiosity for technology. Our journey involves delving into the world of computer science, exploring new ideas and trying them out,
 
 <div align="left">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true&theme=vue-dark&hide_border=true" height="180"
+    srcset="https://github-readme-stats.vercel.app/api?username=zakilay2&show_icons=true&theme=vue-dark&hide_border=true" height="180"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ilocodes&theme=vue&show_icons=true" height="180"
+    srcset="https://github-readme-stats.vercel.app/api?username=zakilay2&theme=vue&show_icons=true" height="180"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ilocodes&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakilay2&show_icons=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&show_icons=true&layout=compact&card_width=320&theme=vue-dark&hide_border=true" height="180"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakilay2&show_icons=true&layout=compact&card_width=320&theme=vue-dark&hide_border=true" height="180"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&layout=compact&card_width=320&theme=vue&show_icons=true&bg_color=00000000" height="180"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakilay2&layout=compact&card_width=320&theme=vue&show_icons=true&bg_color=00000000" height="180"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&show_icons=true" />
@@ -43,29 +43,28 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 📖 Learning The Basics of Front End Development
   - Using HTML to create a simple web page
   - Exploring the basics of CSS & Bootstrap
-
-🖋️ Studying Towards Github Foundations Exam
+📖 Learning SwiftUI
 
 ## Streak
 
 <div align="left">
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=ilocodes&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000" height="180" 
+    srcset="https://streak-stats.demolab.com?user=zakilay2&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000" height="180" 
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=ilocodes&theme=vue&show_icons=true&hide_border=true&bg_color=00000000" height="180" 
+    srcset="https://streak-stats.demolab.com?user=zakilay2&theme=vue&show_icons=true&hide_border=true&bg_color=00000000" height="180" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com?user=ilocodes&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=zakilay2&show_icons=true" />
 </picture>
 </div>
     
 ## 📬 Get in Touch
 
 <div align="left">
-<a href="https://instagram.com/ilocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilocodes" height="30" width="40" /></a>
+<a href="https://instagram.com/zakilay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakilay2" height="30" width="40" /></a>
 </p>
 </div>
 
@@ -74,15 +73,15 @@ I am a passionate individual, driven by a curiosity for technology. My journey i
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ilocodes/ilocodes/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/zakilay2/zakilay2/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ilocodes/ilocodes/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/ilocodes/zakilay2/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ilocodes/ilocodes/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/ilocodes/zakilay2/output/github-contribution-grid-snake.svg"
   />
 </picture>
 </div>
