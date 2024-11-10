@@ -26,10 +26,10 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
 </picture>  
 </div>
 
-## 🚀 About Me
+## 🚀 About Us
 
 - 🔭 Interested in building websites and mobile apps
-- 🌱 Currently learning the Basics of Front End Development 
+- 🌱 Currently learning Bootstrap & Swift UI
 - 🌐 Developer Program Member
 
 ## Tech Stack
@@ -40,10 +40,11 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
 
 
 ## 🌱 Currently Exploring
-📖 Learning The Basics of Front End Development
-  - Using HTML to create a simple web page
-  - Exploring the basics of CSS & Bootstrap
-📖 Learning SwiftUI
+📖 The Basics of Front End Development
+  - Using HTML and CSS to create a simple web page
+  - Exploring the basics of Bootstrap
+    
+📖 SwiftUI
 
 ## Streak
 
