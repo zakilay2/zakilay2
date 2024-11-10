@@ -22,7 +22,7 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakilay2&layout=compact&card_width=320&theme=vue&show_icons=true&bg_color=00000000" height="180"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilocodes&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakilay2&show_icons=true" />
 </picture>  
 </div>
 
