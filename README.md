@@ -65,7 +65,7 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
 ## 📬 Get in Touch
 
 <div align="left">
-<a href="https://instagram.com/zakilay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakilay2" height="30" width="40" /></a>
+<a href="https://instagram.com/zakilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakilay" height="30" width="40" /></a>
 </p>
 </div>
 
