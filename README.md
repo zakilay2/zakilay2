@@ -45,6 +45,7 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
   - Exploring the basics of Bootstrap
     
 📖 SwiftUI
+ - Basics of Swift
 
 ## Streak
 
