@@ -52,7 +52,7 @@ We are passionate individuals, driven by a curiosity for technology. Our journey
 <div align="left">
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=zakilay2&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000" height="180" 
+    srcset="https://streak-stats.demolab.com?user=zakilay2&theme=vue-dark&show_icons=true&hide_border=true&bg_color=00000000" height="180" 
     media="(prefers-color-scheme: dark)"
   />
   <source
